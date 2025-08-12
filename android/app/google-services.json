@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530629221228",
+    "project_id": "hellome-846e9",
+    "storage_bucket": "hellome-846e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530629221228:android:616aef4a88b43456ad7149",
+        "android_client_info": {
+          "package_name": "com.technion.android.hello_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          //"current_key": Can't expose it
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530629221228:android:9f0c35b0d5f2470cad7149",
+        "android_client_info": {
+          "package_name": "com.technion.android.smileai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          //"current_key": Can't expose it
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

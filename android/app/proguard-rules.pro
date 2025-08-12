@@ -1,0 +1,11 @@
+# flutter_local_notifications fix for TypeToken
+-keepattributes Signature
+-keep class com.dexterous.** { *; }
+-keep class com.google.gson.reflect.TypeToken { *; }
+-keep class com.google.gson.** { *; }
+-dontwarn com.dexterous.**
+-dontwarn com.google.gson.**
+-keep class com.dexterous.flutterlocalnotifications.** { *; }
+-keep class com.dexterous.** { *; }
+-keep class io.flutter.plugins.firebase.messaging.** { *; }
+-keep class com.google.firebase.messaging.** { *; }
